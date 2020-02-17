@@ -1,0 +1,16 @@
+E:\Bescom\DatingApp.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Bescom\DatingApp.API\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Bescom\DatingApp.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Bescom\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.deps.json
+E:\Bescom\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.json
+E:\Bescom\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.dev.json
+E:\Bescom\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.dll
+E:\Bescom\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.pdb
+E:\Bescom\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csprojAssemblyReference.cache
+E:\Bescom\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cache
+E:\Bescom\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cs
+E:\Bescom\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfoInputs.cache
+E:\Bescom\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfo.cs
+E:\Bescom\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
+E:\Bescom\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
+E:\Bescom\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
